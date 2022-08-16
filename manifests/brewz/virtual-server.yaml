@@ -6,7 +6,7 @@ metadata:
 spec:
   host: brewz.f5demo.com
   upstreams:
-    - name: spa
+    - name: spaa
       service: spa
       port: 80
     - name: api
